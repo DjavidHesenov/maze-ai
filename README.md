@@ -17,7 +17,8 @@ The program expects 4 arguments from the user:
 * The X coordinate of the end point
 * The Y coordinate of the end point
 
-After running this command you will get one of the two results:__
-`YES` if the path exists__
+After running this command you will get one of the two results:
+
+`YES` if the path exists
 `NO` otherwise
 
