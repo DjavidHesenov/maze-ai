@@ -20,5 +20,6 @@ The program expects 4 arguments from the user:
 After running this command you will get one of the two results:
 
 `YES` if the path exists
+
 `NO` otherwise
 
